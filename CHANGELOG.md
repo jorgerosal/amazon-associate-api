@@ -1,4 +1,8 @@
 ## Change Log
+    1.0.8 August 30, 2024
+
+- Update marketplace list. Added Belgium.
+
     1.0.7 August 30, 2022
 
 - Add querystring module from main package.json. legacy dependency used by the SDK.
